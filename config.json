@@ -1,9 +1,9 @@
 {
   "domains": [
-    "https://fuvoomx.store",
-    "https://deportestotal.xyz"
+    "https://fuvoomx.store"
+    
   ],
   "home": "/play-store/home-play.php",
-  "blocked": "/app/blocked.json",
-  "version": "/app/version.json"
+  "blocked": "/app/blocked.json"
+  
 }
