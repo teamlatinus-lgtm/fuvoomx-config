@@ -4,6 +4,6 @@
     
   ],
   "home": "/play-store/home-play.php",
-  "blocked": "/app/blocked.json"
+  "blocked": "/app/security.json"
   
 }
