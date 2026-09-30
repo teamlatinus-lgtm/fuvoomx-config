@@ -5,5 +5,5 @@
   ],
   "home": "/play-store/home-play.php",
   "blocked": "/app/security.json"
-  
+  "interstitialNavigationLimit": 4
 }
